@@ -1,5 +1,3 @@
-## Welcome to the BizKit Jar
-
 ![alt text](assets/img/logo5.png "take a bite")
 
 
@@ -12,4 +10,4 @@
 ***
 ## Contact
 Questions about BizKit?  
-Check out our [documentation](https://bizkit.com.au/about) or [contact support](mailto:help@bizkit.com.au) and we’ll get things sorted.
+Check out our [documentation](https://bizkit.com.au/aboutus.md) or [contact support](mailto:help@bizkit.com.au) and we’ll get things sorted.
