@@ -1,12 +1,12 @@
 
 # Welcome to the BizKit jar
 
-[ref]:(img/logo1.png)
+![alt text](assets/img/logo1.png "take a bite")
 
 
 ## Choose your BizKit
 
-![ref](master/assets/img/logo2.png) ![image](assets/img/logo3.png) ![alt text](https://github.com/BasileusRex/bizkit.github.io/master/assets/img/logo4.png "BizKit")
+![image](assets/img/logo2.png) ![image](assets/img/logo3.png) ![image](assets/img/logo4.png)
 
 
 
