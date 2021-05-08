@@ -6,11 +6,16 @@ author: Luke~S
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About: "aboutus"
+  Services:
+    - Advice
+    - Admin
+    - Financials
+    - Marketing
+    - Tech
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.stockburger.xyz"
+  Author: "https://www.stockburger.xyz"
 
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
