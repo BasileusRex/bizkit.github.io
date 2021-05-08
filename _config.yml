@@ -2,7 +2,7 @@ theme: jekyll-theme-architect
 title: BizKit
 description: Business Support Services
 # Your name to show in the footer
-author: Luke~S
+author: Luke S
 
 # --- List of links in the navigation bar --- #
 navbar-links:
@@ -15,7 +15,7 @@ navbar-links:
     - Tech
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author: "https://www.stockburger.xyz"
+#  Author: "https://www.stockburger.xyz"
 
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
