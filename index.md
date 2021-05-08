@@ -9,6 +9,6 @@
 
 ***
 ## Contact
-Questions about BizKit?  
+*Questions about BizKit?*  
 Check out our [documentation](https://bizkit.com.au/aboutus), or  
 [contact support](mailto:help@bizkit.com.au) and we’ll get things sorted.
