@@ -1,6 +1,6 @@
 ## Welcome to the BizKit Jar
 
-![alt text](assets/img/logo1.png "take a bite")![image](assets/img/logo5.png)
+![alt text](assets/img/logo5.png "take a bite")
 
 
 ***
