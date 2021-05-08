@@ -1,4 +1,3 @@
-### Your Personal Advisor & Business Support
 ![alt text](assets/img/logo5.png "take a bite")
 
 
