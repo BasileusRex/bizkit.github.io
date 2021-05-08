@@ -10,4 +10,4 @@
 ***
 ## Contact
 Questions about BizKit?  
-Check out our [documentation](https://bizkit.com.au/aboutus.md) or [contact support](mailto:help@bizkit.com.au) and we’ll get things sorted.
+Check out our [documentation](https://bizkit.com.au/aboutus) or [contact support](mailto:help@bizkit.com.au) and we’ll get things sorted.
