@@ -7,8 +7,7 @@ Are you looking for a change?
 Essential to every business
 Which is your fave?
 
-Our story;
+##**Our story**
 The only jar of services your business or project will ever need.
 From ideation to growth.
 There is a BizKit for you.
-#To be honest, I'm having some trouble remembering right now, so why don't you just watch my movie and it will answer all your questions.
